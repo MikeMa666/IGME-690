@@ -58,6 +58,8 @@
   <ItemGroup>
     <Compile Include="Assets\LookingGlass\Extras\OBEY Game Assets\lightFlicker.cs" />
     <Compile Include="Assets\LookingGlass\Examples\URP\ExampleAssets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Dragewithmouse.cs" />
+    <Compile Include="Assets\movePumpkin.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\LookingGlass Post-Processing 3.2.2\PostProcessing\Shaders\StdLib.hlsl" />

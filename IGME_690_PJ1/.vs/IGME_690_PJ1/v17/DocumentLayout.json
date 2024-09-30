@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\12574\\source\\repos\\IGME-690\\IGME-690\\IGME_690_PJ1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B40EB950-E9EA-AA41-44AD-947B1D92D178}|Assembly-CSharp.csproj|c:\\users\\12574\\source\\repos\\igme-690\\igme-690\\igme_690_pj1\\assets\\movepumpkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40EB950-E9EA-AA41-44AD-947B1D92D178}|Assembly-CSharp.csproj|solutionrelative:assets\\movepumpkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD347873-3870-7D2D-8CCF-B01AAC5586A7}|LookingGlass.csproj|c:\\users\\12574\\source\\repos\\igme-690\\igme-690\\igme_690_pj1\\assets\\lookingglass\\scripts\\lookingglass\\systems\\lkgdisplaysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD347873-3870-7D2D-8CCF-B01AAC5586A7}|LookingGlass.csproj|solutionrelative:assets\\lookingglass\\scripts\\lookingglass\\systems\\lkgdisplaysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40EB950-E9EA-AA41-44AD-947B1D92D178}|Assembly-CSharp.csproj|C:\\Users\\12574\\source\\repos\\IGME-690\\IGME-690\\IGME_690_PJ1\\assets\\dragewithmouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40EB950-E9EA-AA41-44AD-947B1D92D178}|Assembly-CSharp.csproj|solutionrelative:assets\\dragewithmouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "movePumpkin.cs",
+              "DocumentMoniker": "C:\\Users\\12574\\source\\repos\\IGME-690\\IGME-690\\IGME_690_PJ1\\Assets\\movePumpkin.cs",
+              "RelativeDocumentMoniker": "Assets\\movePumpkin.cs",
+              "ToolTip": "C:\\Users\\12574\\source\\repos\\IGME-690\\IGME-690\\IGME_690_PJ1\\Assets\\movePumpkin.cs",
+              "RelativeToolTip": "Assets\\movePumpkin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T04:04:31.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LKGDisplaySystem.cs",
+              "DocumentMoniker": "C:\\Users\\12574\\source\\repos\\IGME-690\\IGME-690\\IGME_690_PJ1\\Assets\\LookingGlass\\Scripts\\LookingGlass\\Systems\\LKGDisplaySystem.cs",
+              "RelativeDocumentMoniker": "Assets\\LookingGlass\\Scripts\\LookingGlass\\Systems\\LKGDisplaySystem.cs",
+              "ToolTip": "C:\\Users\\12574\\source\\repos\\IGME-690\\IGME-690\\IGME_690_PJ1\\Assets\\LookingGlass\\Scripts\\LookingGlass\\Systems\\LKGDisplaySystem.cs",
+              "RelativeToolTip": "Assets\\LookingGlass\\Scripts\\LookingGlass\\Systems\\LKGDisplaySystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMgAAACyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T04:00:09.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dragewithmouse.cs",
+              "DocumentMoniker": "C:\\Users\\12574\\source\\repos\\IGME-690\\IGME-690\\IGME_690_PJ1\\Assets\\Dragewithmouse.cs",
+              "RelativeDocumentMoniker": "Assets\\Dragewithmouse.cs",
+              "ToolTip": "C:\\Users\\12574\\source\\repos\\IGME-690\\IGME-690\\IGME_690_PJ1\\Assets\\Dragewithmouse.cs",
+              "RelativeToolTip": "Assets\\Dragewithmouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:57:26.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
